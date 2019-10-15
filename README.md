@@ -8,6 +8,14 @@ Halfway through Saturday, one of our team members spilled Arizona on his laptop.
 
 Regardless, this ended up being a neat proof-of-concept for an idea we thought could be used across many spaces, such as malls, amusement parks, etc.
 
-![Photo 1](https://i.imgur.com/I72TLDa.jpg)
-![Photo 2](https://i.imgur.com/KZJkUOH.jpg)
-![Photo 3](https://i.imgur.com/234qsNI.jpg)
+<p align="center">
+  <img width="460" src="https://i.imgur.com/I72TLDa.jpg">
+</p>
+
+<p align="center">
+  <img width="460" src="https://i.imgur.com/KZJkUOH.jpg">
+</p>
+
+<p align="center">
+  <img width="460" src="https://i.imgur.com/234qsNI.jpg">
+</p>
