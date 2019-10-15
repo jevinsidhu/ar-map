@@ -8,14 +8,6 @@ Halfway through Saturday, one of our team members spilled Arizona on his laptop.
 
 Regardless, this ended up being a neat proof-of-concept for an idea we thought could be used across many spaces, such as malls, amusement parks, etc.
 
-<p align="center">
-  <img width="460" src="https://i.imgur.com/I72TLDa.jpg">
-</p>
-
-<p align="center">
-  <img width="460" src="https://i.imgur.com/KZJkUOH.jpg">
-</p>
-
-<p align="center">
-  <img width="460" src="https://i.imgur.com/234qsNI.jpg">
-</p>
+Left Side View             |  Bird's Eye View         | Right Side View
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://i.imgur.com/I72TLDa.jpg)  |  ![](https://i.imgur.com/KZJkUOH.jpg) |  ![](https://i.imgur.com/KZJkUOH.jpg)
