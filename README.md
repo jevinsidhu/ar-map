@@ -10,4 +10,4 @@ Regardless, this ended up being a neat proof-of-concept for an idea we thought c
 
 Left Side View             |  Bird's Eye View         | Right Side View
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://i.imgur.com/I72TLDa.jpg)  |  ![](https://i.imgur.com/KZJkUOH.jpg) |  ![](https://i.imgur.com/KZJkUOH.jpg)
+![Left Side View](https://i.imgur.com/I72TLDa.jpg)  |  ![Bird's Eye View](https://i.imgur.com/KZJkUOH.jpg) |  ![Right Side View](https://i.imgur.com/234qsNI.jpg)
