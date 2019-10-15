@@ -10,4 +10,4 @@ Regardless, this ended up being a neat proof-of-concept for an idea we thought c
 
 Attendee Badge             | Left Side View            |  Bird's Eye View          | Right Side View
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![Attendee Badge ](https://i.imgur.com/4SpZkrB.jpg)  | ![Left Side View](https://i.imgur.com/I72TLDa.jpg)  |  ![Bird's Eye View](https://i.imgur.com/KZJkUOH.jpg) |  ![Right Side View](https://i.imgur.com/234qsNI.jpg)
+![Attendee Badge ](https://i.imgur.com/WNCz7xP.jpg)  | ![Left Side View](https://i.imgur.com/I72TLDa.jpg)  |  ![Bird's Eye View](https://i.imgur.com/KZJkUOH.jpg) |  ![Right Side View](https://i.imgur.com/234qsNI.jpg)
