@@ -8,6 +8,6 @@ Halfway through Saturday, one of our team members spilled Arizona on his laptop.
 
 Regardless, this ended up being a neat proof-of-concept for an idea we thought could be used across many spaces, such as malls, amusement parks, etc.
 
-Left Side View             |  Bird's Eye View         | Right Side View
-:-------------------------:|:-------------------------:|:-------------------------:
-![Left Side View](https://i.imgur.com/I72TLDa.jpg)  |  ![Bird's Eye View](https://i.imgur.com/KZJkUOH.jpg) |  ![Right Side View](https://i.imgur.com/234qsNI.jpg)
+Attendee Badge             | Left Side View            |  Bird's Eye View          | Right Side View
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![Attendee Badge ](https://i.imgur.com/4SpZkrB.jpg)  | ![Left Side View](https://i.imgur.com/I72TLDa.jpg)  |  ![Bird's Eye View](https://i.imgur.com/KZJkUOH.jpg) |  ![Right Side View](https://i.imgur.com/234qsNI.jpg)
